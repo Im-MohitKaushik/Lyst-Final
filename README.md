@@ -24,4 +24,4 @@ This is an Individual Project Which is been executed in 5 days.
 
 The tech Stacks which are used in this site are HTML | CSS | JavaScript.
 
-This website is responsive as well as pixel perfect. we all have done as much we have been taught in this unit .
+This website is responsive as well as pixel perfect. I have done as much possible through the knowledge provided in this unit.
